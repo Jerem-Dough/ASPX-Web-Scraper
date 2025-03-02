@@ -1,4 +1,4 @@
-## **ASPX-Web-Scraper**
+## **ASPX Web Scraper**
 
   This is a Python-based tool that scrapes **ASPX webpages** and converts them into **PDFs while preserving formatting**. This tool ensures that JavaScript-rendered content is fully loaded before conversion.
 
