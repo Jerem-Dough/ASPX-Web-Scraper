@@ -11,12 +11,8 @@
 **Tech Stack**
 
   Language: Python  
-  Libraries:  
-  - Selenium  
-  - PDFKit  
-  - WeasyPrint  
-  - WebDriver Manager  
-  API: N/A
+  Libraries: Selenium, PDFKit, WeasyPrint, WebDriver Manager  
+  API: N/A  
 
 **Deployment**
 
