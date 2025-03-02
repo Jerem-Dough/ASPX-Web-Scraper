@@ -5,7 +5,7 @@
 **Features**
 
   Extracts fully rendered **HTML & CSS** from ASPX webpages.
-  Supports PDF conversion using: PDFKit (via wkhtmltopdf) and WeasyPrint.
+  Supports PDF conversion using PDFKit (via wkhtmltopdf) and WeasyPrint.
   Automates rendering and extraction with Selenium, ensuring accuracy and document completeness.
 
 **Tech Stack**
