@@ -12,7 +12,7 @@
 - Libraries: Selenium, PDFKit, WeasyPrint, WebDriver Manager  
 - API: N/A  
 
-## **Deployment**
+## **Local Deployment**
 
 1. Install Python and ensure it is added to your system PATH.
 2. Create and activate a virtual environment:
